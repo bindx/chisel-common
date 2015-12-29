@@ -40,7 +40,7 @@ sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
 4.chmod 777 /Cellar
 ```
 
-
+### 常用命令
 
 ###pviews
 >递归打印出所有view,并显示层级关系
